@@ -4,3 +4,4 @@
 5
 
 git.git
+finsh3
