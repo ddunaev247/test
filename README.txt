@@ -4,3 +4,5 @@
 5
 
 git.git
+check
+finsh
